@@ -2,7 +2,7 @@
 
 This script allow you to display the current VPN status
 
-It uses typical VPN interface and nmcli for getting active connections
+It uses typical VPN interfaces detection and nmcli for getting active connections
 
 The support list:
 
