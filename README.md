@@ -14,3 +14,5 @@ The support list:
 - SSTP
 - IPSec 
 - Generic VPN
+
+This script is written for me, which extremely helpful because of the specific of my job.
